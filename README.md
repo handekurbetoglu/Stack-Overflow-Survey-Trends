@@ -1,4 +1,5 @@
 Project Overview
+
 This project provides an in-depth analysis of the Stack Overflow Developer Survey dataset, focusing on global developer trends in roles, education, and compensation. The analysis reveals critical insights into the developer community, highlighting trends in developer roles, educational backgrounds, and compensation structures.
 
 Files and Directories
