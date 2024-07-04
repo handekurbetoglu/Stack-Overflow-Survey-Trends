@@ -63,14 +63,15 @@ Companies should leverage remote work opportunities to tap into global developer
 ## Further Analysis:
 Investigate correlations between programming languages and compensation.
 Study developer satisfaction trends based on role and salary.
-Instructions to Reproduce Analysis
 
-## Requirements:
+## Instructions to Reproduce Analysis
+
+### Requirements:
 Python 3.x
 Jupyter Notebook
 Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
 
-## Setup:
+### Setup:
 Clone or download this repository.
 Install required libraries:
 pip install pandas numpy matplotlib seaborn scikit-learn
