@@ -48,7 +48,8 @@ Compensation increases significantly with years of professional coding experienc
 
 ### Average Salaries by Developer Type:
 Data Scientists and Full Stack Developers tend to have higher average salaries.
-Conclusions and Recommendations
+
+##Conclusions and Recommendations
 
 ### Targeted Educational Outreach:
 Encourage educational institutions to focus on computer science and data science programs due to the growing demand.
